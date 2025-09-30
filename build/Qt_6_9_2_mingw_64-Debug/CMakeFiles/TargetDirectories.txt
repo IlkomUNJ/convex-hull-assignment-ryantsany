@@ -1,0 +1,9 @@
+C:/Users/Pongo/Documents/tugas/komgraf/komgraf-1/build/Qt_6_9_2_mingw_64-Debug/CMakeFiles/komgraf-1.dir
+C:/Users/Pongo/Documents/tugas/komgraf/komgraf-1/build/Qt_6_9_2_mingw_64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Pongo/Documents/tugas/komgraf/komgraf-1/build/Qt_6_9_2_mingw_64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Pongo/Documents/tugas/komgraf/komgraf-1/build/Qt_6_9_2_mingw_64-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Pongo/Documents/tugas/komgraf/komgraf-1/build/Qt_6_9_2_mingw_64-Debug/CMakeFiles/install.dir
+C:/Users/Pongo/Documents/tugas/komgraf/komgraf-1/build/Qt_6_9_2_mingw_64-Debug/CMakeFiles/install/local.dir
+C:/Users/Pongo/Documents/tugas/komgraf/komgraf-1/build/Qt_6_9_2_mingw_64-Debug/CMakeFiles/install/strip.dir
+C:/Users/Pongo/Documents/tugas/komgraf/komgraf-1/build/Qt_6_9_2_mingw_64-Debug/CMakeFiles/komgraf-1_autogen_timestamp_deps.dir
+C:/Users/Pongo/Documents/tugas/komgraf/komgraf-1/build/Qt_6_9_2_mingw_64-Debug/CMakeFiles/komgraf-1_autogen.dir
