@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6c988f6886849fcd67ad.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "komgraf-1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "komgraf-1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-komgraf-1-Debug-8990fa4f37aeb742898b.json",
+					"name" : "komgraf-1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "komgraf-1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-komgraf-1_autogen-Debug-c24a74cecf4894c7e9a2.json",
+					"name" : "komgraf-1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "komgraf-1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-komgraf-1_autogen_timestamp_deps-Debug-abaa7c22ed28b9426170.json",
+					"name" : "komgraf-1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Pongo/Documents/tugas/komgraf/komgraf-1/build/Qt_6_9_2_mingw_64-Debug",
+		"source" : "C:/Users/Pongo/Documents/tugas/komgraf/komgraf-1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
